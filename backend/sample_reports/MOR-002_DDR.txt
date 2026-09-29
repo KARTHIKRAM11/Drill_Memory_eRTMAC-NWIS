@@ -1,0 +1,25 @@
+OIL INDIA LIMITED
+DAILY DRILLING REPORT
+
+Well Name: MOR-002
+Field: Moran
+Report Date: 22-07-2020
+
+FORMATION TOPS
+Alluvium - 0m
+Girujan Clay - 140m
+Tipam Sandstone - 790m
+Barail Group - 1590m
+
+CASING PROGRAM
+20 in casing set at 145m
+13.375 in casing set at 780m
+9.625 in casing set at 1580m
+
+MUD PROGRAM
+Current mud weight 1.38 SG water-based polymer mud, drilling ahead in Barail Group at 1900m.
+
+NPT EVENTS
+Well kick detected in Barail Group zone at 1910m; pit gain of 22 bbls, shut-in and circulated out using driller's method.
+Gas influx observed while drilling Barail Group at 1940m; SIDPP 850 psi recorded, well controlled per BOP procedure.
+Erratic torque and drag noted in Barail Group section at 1980m; mud properties adjusted, ROP reduced as mitigation.

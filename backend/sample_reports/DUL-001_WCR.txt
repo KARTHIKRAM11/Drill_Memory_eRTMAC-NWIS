@@ -1,0 +1,31 @@
+OIL INDIA LIMITED
+WELL COMPLETION REPORT
+
+Well Name: DUL-001
+Field: Duliajan
+Spud Date: 14-03-2018
+Rig: OIL Rig-14
+
+FORMATION TOPS
+Alluvium - 0m
+Girujan Clay - 160m
+Tipam Sandstone - 810m
+Barail Group - 1620m
+Basement (Pre-Tertiary) - 2480m
+
+CASING PROGRAM
+20 in casing set at 150m
+13.375 in casing set at 800m
+9.625 in casing set at 1600m
+7 in liner set at 2450m
+
+MUD PROGRAM
+Spud mud: 1.05 SG bentonite based, 0-160m.
+Intermediate: 1.15 SG KCl-polymer mud used through Girujan Clay and Tipam Sandstone to control reactive shale swelling.
+Deep section: 1.42 SG oil-based mud used through Barail Group due to elevated pore pressure gradient observed in offset wells.
+
+NPT EVENTS
+Partial mud loss observed while drilling through fractured Tipam Sandstone at 1180m; losses of 35 bbl/hr recorded.
+Torque spike noted at 1750m while drilling Barail Group, attributed to tight hole; reamed and continued with increased mud lubricity.
+Differential sticking encountered in Barail Group at 2050m; freed after 14 hrs of jarring and spotting pill.
+Cement channeling detected post-WOC at 1600m casing shoe; remedial squeeze cementing job performed.
