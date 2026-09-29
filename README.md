@@ -74,7 +74,7 @@ npm run dev
 ```
 Frontend runs at `http://localhost:5173` and proxies `/api` calls to the backend.
 
-## Demo script (for judges)
+## Demo script
 
 1. **Offset Well Map tab** — click any well marker. Side panel shows its
    formation sequence and full historical event timeline. Drag the radius
